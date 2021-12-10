@@ -1,0 +1,110 @@
+.app{
+    height: 480px;
+    width: 500px;
+}
+
+.A{ 
+    border: solid 1px;
+    height: 80px;
+    width: 500px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text{
+    height: 60px;
+    width: 470px;
+    margin-top: 20px;
+    margin-left: 10px;
+    align-self: center;
+    display:block;
+    line-height: 0.5;
+    text-align: left;
+}
+.campoText{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+    height: 60px;
+    width: 470px;
+    margin-top: 10px;
+    line-height: 0.5;
+}
+h{
+    font-size: 20px;
+}
+.text2{
+    position: left;
+    margin-left: 10px;
+    height: 50px;
+    width: 380px;
+}
+.text3{
+    position:right;
+    height: 50px;
+    text-align: center;
+    line-height: 1.5;
+}
+.user{
+    display: flex;
+    justify-content:baseline;
+    text-align: center;
+    align-items: center;
+}
+.verde{
+    background-color: rgb(33, 241, 33);
+    width: 30px;
+    height: 20px;
+    border-radius: 10px;
+}
+img{
+    justify-self: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    border: 5px;
+}
+
+.B{
+    border: solid 1px;
+    height: 80px;
+    width: 500px;
+    justify-self: center;
+    align-items: center;
+    align-self: center;
+}
+
+.lupa{
+    justify-self: center;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+hr{
+    width: 480px;
+}
+
+.campo{
+    position: relative;
+    border-radius: 10px;
+    float: center;
+    background-color: rgb(224, 219, 219);
+    height: 60px;
+    width: 470px;
+    display: flex;
+    justify-content:baseline;
+    text-align: center;
+    align-items: center;
+    margin: 10px auto
+}
+
+.C{ 
+    height: 80px;
+    width: 500px;
+}
+.border{
+    width: 500px;
+    border: solid 1px;
+}

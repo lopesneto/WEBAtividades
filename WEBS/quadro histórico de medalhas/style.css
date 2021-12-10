@@ -1,0 +1,46 @@
+
+
+body {
+    margin-left: 100px;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+#container{
+    width: 1200px;
+    justify-content: space-around;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.local{
+    background-color: white;
+    margin: 10px, auto;
+    height: 110px;
+    width: 500px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    border: solid;
+    border-radius: 10px;
+}
+
+.text{
+    height: 80px;
+
+    text-align: center;
+    margin: 20px, auto;
+    width: 500px;
+}
+h{
+    font-size: 30px;
+    justify-items: center;
+    width: 100%;
+
+}
+.text2{
+    font-size: 20px;
+}
